@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Реестр учреждений\Реестр учреждений\bin\Debug\Реестр учреждений.exe.config
+C:\Users\user\source\repos\Реестр учреждений\Реестр учреждений\bin\Debug\Реестр учреждений.exe
+C:\Users\user\source\repos\Реестр учреждений\Реестр учреждений\bin\Debug\Реестр учреждений.pdb
+C:\Users\user\source\repos\Реестр учреждений\Реестр учреждений\obj\Debug\Реестр учреждений.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Реестр учреждений\Реестр учреждений\obj\Debug\Реестр_учреждений.Form1.resources
+C:\Users\user\source\repos\Реестр учреждений\Реестр учреждений\obj\Debug\Реестр_учреждений.Properties.Resources.resources
+C:\Users\user\source\repos\Реестр учреждений\Реестр учреждений\obj\Debug\Реестр учреждений.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Реестр учреждений\Реестр учреждений\obj\Debug\Реестр учреждений.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Реестр учреждений\Реестр учреждений\obj\Debug\Реестр учреждений.exe
+C:\Users\user\source\repos\Реестр учреждений\Реестр учреждений\obj\Debug\Реестр учреждений.pdb
+C:\Users\user\source\repos\Реестр учреждений\Реестр учреждений\obj\Debug\Реестр_учреждений.Form3.resources
